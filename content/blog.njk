@@ -1,0 +1,11 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Archive
+  order: 2
+---
+<h1>Archive</h1>
+<sub><strong><a href="/feed/feed.xml">Subscribe via RSS</a></strong></sub>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}
