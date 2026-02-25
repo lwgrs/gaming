@@ -1,5 +1,4 @@
 ---
-permalink: "difficulty-levels/"
 title: "Video Game Difficulty"
 description: Much is made of easy vs. hard difficulty levels, but I try not to think about it too much.
 date: 2025-02-23

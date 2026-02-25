@@ -1,5 +1,4 @@
 ---
-permalink: "2023/07/23/mario-vs-donkey-kong-game-boy-advance-2004/"
 title: "Mario vs Donkey Kong (Game Boy Advance, 2004)"
 description: Mario vs. Donkey Kong for the Game Boy Advance (2004) is a fun follow-up to 1994’s Donkey Kong for the Game Boy, but it doesn’t quite live up to its predecessor.
 date: 2023-07-23

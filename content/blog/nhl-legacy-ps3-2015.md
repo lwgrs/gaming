@@ -1,5 +1,4 @@
 ---
-permalink: "2023/11/16/nhl-legacy-ps3-2015/"
 title: "NHL Legacy (PS3, 2015)"
 description: On the heels of finding new ways to enjoy MLB The Show 16, I made some adjustments to NHL Legacy on the PS3 to make it more challenging to play.
 date: 2023-11-16

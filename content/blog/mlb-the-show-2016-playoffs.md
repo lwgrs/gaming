@@ -1,5 +1,4 @@
 ---
-permalink: "2023/11/03/mlb-the-show-2016-playoffs/"
 title: "MLB The Show 2016 – Playoffs"
 description: After watching the Toronto Blue Jays lose their Wild Card series in a disappointing 2-game sweep, I wanted to set up some playoff rounds of my own to experience the joy of winning.
 date: 2023-11-03

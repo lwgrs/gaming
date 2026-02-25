@@ -1,5 +1,4 @@
 ---
-permalink: "2023/07/15/donkey-kong-game-boy-1994/"
 title: "Donkey Kong (Game Boy, 1994)"
 description: Donkey Kong (Game Boy, 1994) is my all-time favourite game. Why is a grayscale game from the 90s at the top of my list?
 date: 2023-07-15
