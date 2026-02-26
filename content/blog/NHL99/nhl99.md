@@ -1,4 +1,5 @@
 ---
+permalink: "nhl99-n64"
 title: "NHL 99 (N64) Is An Ugly Game, But It's A Lot of Fun "
 description: I recently picked up a copy of NHL 99 for the N64 and had some fun nostalgic NHL action.
 date: 2024-05-04

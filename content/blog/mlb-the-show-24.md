@@ -1,4 +1,5 @@
 ---
+permalink: "mlb-the-show-24"
 title: "MLB The Show 24: First Impressions"
 description: Among the new PS5 games I started playing, MLB The Show 24 was high on my radar to play. Here are my first impressions.
 date: 2025-03-10

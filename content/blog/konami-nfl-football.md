@@ -1,4 +1,5 @@
 ---
+permalink: "konami-nfl-football"
 title: Konami NFL Football (Game Boy, 1990)
 description: 
 tags: 
@@ -6,6 +7,7 @@ tags:
   - NFL 
   - Sports
   - Konami
+date: 2025-07-13
 ---
 
 I [logged this game in my media database](https://library.srgower.com/games/handheld/game-boy/nfl-football/) last week and, memories being fond, I slotted it into my Game Boy Colour and turned it on. I was greeted by a familiar start screen, and a simple choice: 1 player, normal length game, or short game. 
