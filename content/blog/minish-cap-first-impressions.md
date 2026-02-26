@@ -1,5 +1,5 @@
 ---
-permalink: "minish-cap"
+permalink: "/minish-cap/"
 title: "The Legend of Zelda The Minish Cap (Game Boy Advance, 2005) – First Impressions"
 description: "I’m trying to play The Legend of Zelda: The Minish Cap (Game Boy Advance, 2005) again. Here are my first impressions."
 date: 2023-07-16

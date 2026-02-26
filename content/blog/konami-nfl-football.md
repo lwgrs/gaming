@@ -1,5 +1,5 @@
 ---
-permalink: "konami-nfl-football"
+permalink: "/konami-nfl-football/"
 title: Konami NFL Football (Game Boy, 1990)
 description: 
 tags: 
