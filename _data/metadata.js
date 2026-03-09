@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Gaming with lwgrs",
-	url: "https://lwgrs.neocities.org",
+	url: "https://gaming.lwgrs.cloud/",
 	language: "en",
 	description: "Reviewing old games and new games with a retro flair.",
 	author: {
