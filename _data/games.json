@@ -1,37 +1,52 @@
 [
     {
         "title": "Donkey Kong",
-		    "titleSort": "Donkey",
+		"titleSort": "Donkey",
         "url": "https://gaming.lwgrs.cloud/donkey-kong-game-boy-1994/"
     },
     {
         "title": "The Legend of Zelda: The Minish Cap",
         "titleSort": "Legend",
-		    "url": "https://gaming.lwgrs.cloud/minish-cap/"
+		"url": "https://gaming.lwgrs.cloud/minish-cap/"
     },
     {
         "title": "Mario vs. Donkey Kong",
-		    "titleSort": "Mario",
+		"titleSort": "Mario",
         "url": "https://gaming.lwgrs.cloud/mario-vs-donkey-kong-gba/"
     },
     {
         "title": "Dr. Mario",
-		    "titleSort": "Dr",
+		"titleSort": "Dr",
         "url": "https://gaming.lwgrs.cloud/dr-mario-game-boy-1990/"
     },
     {
         "title": "NHL 25",
-		    "titleSort": "NHL 25",
+		"titleSort": "NHL 25",
         "url": "https://gaming.lwgrs.cloud/video-game-difficulty/"
     },
 	  {
-		    "title": "MLB The Show 24",
-		    "titleSort": "MLB 24",
-		    "url": "#"
+		"title": "MLB The Show 24",
+		"titleSort": "MLB 24",
+		"url": "https://gaming.lwgrs.cloud/mlb-the-show-24/"
 		},
-	  {
-		    "title": "MLB The Show 25",
-		    "titleSort": "MLB 25",
-		    "url": "#"
-		}
+      {
+        "title": "Konami NFL Football",
+        "titleSort": "Konami NFL",
+        "url": "https://gaming.lwgrs.cloud/konami-nfl-football/"
+      },
+      {
+        "title": "NHL 99",
+        "titleSort": "NHL 99",
+        "url": "https://gaming.lwgrs.cloud/nhl99-n64/"
+      },
+      {
+        "title": "NHL Legacy",
+        "titleSort": "NHL Legacy",
+        "url": "https://gaming.lwgrs.cloud/nhl-legacy-ps3-2015/"
+      },
+      {
+        "title": "MLB The Show 16",
+        "titleSort": "MLB 16",
+        "url": "https://gaming.lwgrs.cloud/mlb-the-show-2016-playoffs/"
+      }
 ]

@@ -263,6 +263,19 @@ header {
 	margin-right: 1em;
 }
 
+/* Games list */
+.flex-list {
+	display: flex;
+	flex-wrap: wrap;
+	height: 100px;
+	flex-direction: column;
+	list-style-type: none;
+}
+
+.flix-list li {
+	width: 50%;
+}
+
 /* Direct Links / Markdown Headers */
 .header-anchor {
 	text-decoration: none;
