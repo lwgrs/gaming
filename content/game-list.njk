@@ -10,7 +10,7 @@ eleventyNavigation:
 
 <em>This page is a work in progress.</em>
 
-<ul class="flex-list">
+<ul class="column-list">
 {% for game in games | sort(false, false, "titleSort") %}
  <li><a href="{{ game.url }}">{{ game.title }}</a></li>
 {% endfor%}
