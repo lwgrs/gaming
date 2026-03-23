@@ -2,16 +2,16 @@
 permalink: /games/
 layout: layouts/home.njk
 eleventyNavigation:
-  key: Tags
+  key: Games
   order: 4
 ---
 
-# Games covered on this blog 
+<h1>Games covered on this blog</h1>
 
-*This page is a work in progress.* 
+<em>This page is a work in progress.</em>
 
 <ul>
 {% for game in games | sort(false, false, "title") %}
- <li><a href="{{ games.url }}">{{ games.title }}</a></li>
+ <li><a href="{{ game.url }}">{{ game.title }}</a></li>
 {% endfor%}
 </ul>
