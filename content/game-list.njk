@@ -1,0 +1,17 @@
+---
+permalink: /games/
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Tags
+  order: 4
+---
+
+# Games covered on this blog 
+
+*This page is a work in progress.* 
+
+<ul>
+{% for game in games | sort(false, false, "title") %}
+ <li><a href="{{ games.url }}">{{ games.title }}</a></li>
+{% endfor%}
+</ul>
