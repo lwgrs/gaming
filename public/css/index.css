@@ -269,6 +269,7 @@ header {
   -webkit-column-count: 2;
   -moz-column-count: 2;
   column-gap: 20px;
+  list-style-type: none;
 }
 
 /* Direct Links / Markdown Headers */
