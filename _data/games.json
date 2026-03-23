@@ -1,37 +1,37 @@
 [
     {
         "title": "Donkey Kong",
-		"titleSort": "Donkey",
+		    "titleSort": "Donkey",
         "url": "https://gaming.lwgrs.cloud/donkey-kong-game-boy-1994/"
     },
     {
         "title": "The Legend of Zelda: The Minish Cap",
         "titleSort": "Legend",
-		"url": "https://gaming.lwgrs.cloud/minish-cap/"
+		    "url": "https://gaming.lwgrs.cloud/minish-cap/"
     },
     {
         "title": "Mario vs. Donkey Kong",
-		"titleSort": "Mario",
+		    "titleSort": "Mario",
         "url": "https://gaming.lwgrs.cloud/mario-vs-donkey-kong-gba/"
     },
     {
         "title": "Dr. Mario",
-		"titleSort": "Dr",
+		    "titleSort": "Dr",
         "url": "https://gaming.lwgrs.cloud/dr-mario-game-boy-1990/"
     },
     {
         "title": "NHL 25",
-		"titleSort ": "NHL",
+		    "titleSort": "NHL",
         "url": "https://gaming.lwgrs.cloud/video-game-difficulty/"
     },
 	  {
-		"title": "MLB The Show 24",
-		"titleSort": "MLB 24",
-		"url": "#"
+		    "title": "MLB The Show 24",
+		    "titleSort": "MLB 24",
+		    "url": "#"
 		},
 	  {
-		"title": "MLB The Show 25",
-		"titleSort ": "MLB 25",
-		"url": "#"
+		    "title": "MLB The Show 25",
+		    "titleSort ": "MLB 25",
+		    "url": "#"
 		}
 ]
