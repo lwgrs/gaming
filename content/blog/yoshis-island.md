@@ -6,8 +6,8 @@ tags:
   - SNES
   - Game Boy Advance
   - Nintendo
-  - Puzzle
-  - Platformer
+  - puzzle
+  - platformer
 ---
 
 {% image "https://upload.wikimedia.org/wikipedia/en/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg", "Box art for the original SNES title Super Mario World 2: Yoshi's Island." %}
