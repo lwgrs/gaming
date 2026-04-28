@@ -1,6 +1,6 @@
 ---
 title: "Yoshi's Island (1995-2002)"
-description: "Yoshi's Island was a fantastic follow-up to 1990's Super Mario World for the Super Nintendo. It was re-released for the Game Boy Advance as Yoshi's Island: Super Mario Advance 3".
+description: "Yoshi's Island was a fantastic follow-up to 1990's Super Mario World for the Super Nintendo. It was re-released for the Game Boy Advance as Yoshi's Island: Super Mario Advance 3."
 date: 2026-04-28
 tags: 
   - SNES
