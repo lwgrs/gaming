@@ -14,7 +14,7 @@ tags:
 
 *[Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island)* (1995) was an amazing sequel to the already-brilliant *[Super Mario World](https://en.wikipedia.org/wiki/Super_Mario_World)* (1990) for the Super Nintendo. Instead of controlling the usual Mario Brothers, this time around Yoshi is the star. And actually, this is technically a *prequel* because Yoshi is charged with protecting Baby Mario after Baby Luigi is captured. Eventually the game was re-released for the Game Boy Advance as *[Yoshi's Island: Super Mario Advance 3](https://www.mariowiki.com/Yoshi%27s_Island:_Super_Mario_Advance_3)* (2002), which is the version I've been playing for a few months now. 
 
-In terms of the GBA port specifically, it plays about the same as I remember. I haven't touched the SNES version in decades, but I can't imagine it being very different. As near as I can tell there have been no updates in graphics or sound (as they have done occasionally with Super Mario Bros refreshes) - which is a very important topic to get into right now. 
+In terms of the GBA port specifically, it plays about the same as I remember. I haven't touched the SNES version in decades, but I can't imagine it being very different. As near as I can tell there have been no updates in graphics or sound (as they have done occasionally with Super Mario Bros refreshes) &mdash; which is a very important topic to get into right now. 
 
 The music in Yoshi's Island is memorable but probably not as well-known as the original NES games (1 and 3), or the music that's popping up on TikTok lately from Super Mario World. The sound effects are overall great, but there is one specific sound that has me playing the game with volume muted: Baby Mario. 
 
