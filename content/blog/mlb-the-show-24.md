@@ -65,7 +65,7 @@ This game is very well-designed and entertaining, and a huge upgrade from the ga
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol>
-<li id="fn1"><p>Unfortunately Bo's flow is gone this year, so I guess all we're left with is the memory of it in *MLB 24*.<a href="#fnref-1">↩</a></p></li>
+<li id="fn1"><p>Unfortunately Bo's flow is gone this year, so I guess all we're left with is the memory of it in <em>MLB 24</em>.<a href="#fnref-1">↩</a></p></li>
 <li id="fn2"><p>"The Vault" is where players can create logos, rosters, and other things for other people to download. I had this briefly on the PS3 for <em>MLB 16</em> but it wasn't long before those servers were shut down.<a href="#fnref-2">↩</a></p></li>
 </ol>
 </section>
