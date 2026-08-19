@@ -1,7 +1,7 @@
 ---
 title: The Futility of Remote Play (PS5) 
 description: "I have tried on multiple occasions to play PS5 games with my iPad from remote locations, and have almost thrown down the controller in frustration—except once." 
-date: 2026-08-19 
+date: 2026-08-19 14:00
 tags: 
   - PS5 
   - PS4
@@ -11,7 +11,7 @@ tags:
   - NHL 
   - MLB The Show
   - general
-permalink: /remote-play/
+permalink: "/remote-play/"
 ---
 
 One of the coolest things I've discovered since getting a [PS5](/tags/ps5/) last year was remote play: you could use a device, such as my iPad Air, to connect remotely to your PS5 and play games. I've successfully connected using both the standard PS5 controller, but most recently I discovered the [8BitDo SN30 Pro](https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/) works perfectly as an on-the-go gaming rig. 
