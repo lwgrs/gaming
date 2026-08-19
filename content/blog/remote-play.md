@@ -1,7 +1,7 @@
 ---
 title: The Futility of Remote Play (PS5) 
 description: "I have tried on multiple occasions to play PS5 games with my iPad from remote locations, and have almost thrown down the controller in frustration—except once." 
-date: 2026-08-19 14:00
+date: 2026-08-19T14:00:00
 tags: 
   - PS5 
   - PS4
