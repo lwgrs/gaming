@@ -53,5 +53,10 @@
 		"title": "Yoshi's Island",
 		"titleSort": "Yoshi",
 		"url": "/yoshi-s-island-1995-2002/"
-	}
+	},
+    {
+        "title": "Star Wars Outlaws",
+        "titleSort": "Star",
+        "url": "/star-wars-outlaws-2024"
+    }
 ]
